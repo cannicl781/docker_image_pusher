@@ -6,3 +6,5 @@ k8s.gcr.io/pause:3.4.1
 k8s.gcr.io/etcd:3.4.13-0
 k8s.gcr.io/coredns/coredns:v1.8.0
 quay.io/coreos/flannel:v0.14.0
+kubernetesui/dashboard:v2.4.0
+kubernetesui/metrics-scraper:v1.0.7
